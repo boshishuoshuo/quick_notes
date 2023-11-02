@@ -29,3 +29,8 @@
 - 445 SMB/CIFS
 - 548 AFP
 - 3389 RDP
+
+### OSI model
+- 7 layers: Application, Presentation, Session, Transport, Network, Data Link, Physical
+- top down: All People Seem To Need Data Processing
+- bottom up: Please DoN't Throw Sausage Pizza Away
